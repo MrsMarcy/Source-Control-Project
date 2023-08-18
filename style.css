@@ -22,7 +22,7 @@ a {
 }
 #title {
     text-align: center;
-    background-color: cadetblue;
+    background-color:crimson;
     padding: 20px;
     font-family: "Montserrat";
 }
@@ -37,5 +37,5 @@ a {
     width:300px;
     float: left;
     border: 5px solid #dd6e42;
-    background-color: cadetblue;
+    background-color: crimson;
 }
